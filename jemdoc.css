@@ -2,7 +2,7 @@
 
 body {
     background: white;
-    background: #4E5963 url(images/pat.png) top left repeat;
+    background: #4E5963  top left repeat;
     font-family: georgia, serif;
     font-size: 13px;
     font-style: normal;
@@ -78,7 +78,7 @@ table#tlayout {
 }
 
 #layout-menu td {
-    background: #5C7996 /* #f4f4f4;*/
+    background: #5C7996; /* #f4f4f4;*/
     vertical-align: top;
 }
 
