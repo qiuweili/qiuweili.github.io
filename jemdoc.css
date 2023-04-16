@@ -1,15 +1,14 @@
 body {
-    background: white;
+    /*background: white;*/
     background: #4E5963 top left repeat;
-    /*background-color: #f2f2f2;*/
-    font-family: Arial, serif;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 14px;
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
     padding-top: 0em;
     padding-bottom: 0px;
-    margin: 450px; /* increased margin */
+    margin: 300px; /* increased margin */
     margin-top: 60px;
     width: auto;
 }
