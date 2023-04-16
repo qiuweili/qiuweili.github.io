@@ -8,8 +8,8 @@ body {
     font-weight: normal;
     padding-top: 0em;
     padding-bottom: 0px;
-    margin: 450px; /* increased margin */
-    margin-top: 60px;
+    margin: 15%; /* adjust the percentage to your preference */
+    margin-top: 5%; /* adjust the percentage to your preference */
     width: auto;
 }
 dt.paper-entry {
